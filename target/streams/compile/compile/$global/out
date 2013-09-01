@@ -1,0 +1,31 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Conversion.scala, C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Regex.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Conversion.scala, C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Regex.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Conversion.scala, C:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Regex.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\scala\sbt-projects\files-regex-scala\target\scala-2.9.2\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.2[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler e6bbd8, interfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files (x86)\Java\jre7\lib\resources.jar;C:\Program Files (x86)\Java\jre7\lib\rt.jar;C:\Program Files (x86)\Java\jre7\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre7\lib\jsse.jar;C:\Program Files (x86)\Java\jre7\lib\jce.jar;C:\Program Files (x86)\Java\jre7\lib\charsets.jar;C:\Program Files (x86)\Java\jre7\lib\jfr.jar;C:\Program Files (x86)\Java\jre7\classes;C:\Users\casanovam\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\scala\sbt-projects\files-regex-scala\target\scala-2.9.2\classes[0m
+[0m[[31merror[0m] [0mC:\scala\sbt-projects\files-regex-scala\src\main\scala\com\michelcasanova\scala\regex\Regex.scala:26: overloaded method apply needs result type[0m
+[0m[[31merror[0m] [0m    	file.listFiles().foreach( f => apply(f, regexL, encoding))[0m
+[0m[[31merror[0m] [0m    	                                    ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m

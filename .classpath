@@ -1,0 +1,9 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala" output="target\scala-2.9.2\classes"/>
+  <classpathentry kind="src" path="src\main\java" output="target\scala-2.9.2\classes"/>
+  <classpathentry kind="src" path="src\test\scala" output="target\scala-2.9.2\test-classes"/>
+  <classpathentry kind="src" path="src\test\java" output="target\scala-2.9.2\test-classes"/>
+  <classpathentry kind="lib" path="C:\Users\casanovam\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.9.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
