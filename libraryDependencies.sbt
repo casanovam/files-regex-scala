@@ -1,0 +1,1 @@
+libraryDependencies += "org.scalatest" % "scalatest_2.10" % "1.9.2-RC1" % "test"
